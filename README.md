@@ -40,3 +40,4 @@ hjkk
 hkl
 ioo
 hjk
+hko
