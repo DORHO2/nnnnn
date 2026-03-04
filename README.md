@@ -4,3 +4,4 @@ n,,m
 nmb
 bnn
 bnn
+nnm
