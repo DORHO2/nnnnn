@@ -82,3 +82,4 @@ jko
 kl
 klo
 kou
+jki
